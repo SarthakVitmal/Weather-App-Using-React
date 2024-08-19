@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# Weather-App-Using-React
-=======
-# React + Vite
+## Weather App
+This is a simple Weather App built using React that allows users to check the current weather of any city around the world. The app fetches data from the OpenWeather API and displays it in an easy-to-read format.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> master
+Features
+Real-Time Weather Data: Fetches current weather information including temperature, humidity, wind speed, and weather conditions.
+Search by City: Users can search for weather information by entering the name of a city.
+Responsive Design: The app is fully responsive and works well on both desktop and mobile devices.
+Error Handling: Displays appropriate messages for invalid city names or failed API requests.
